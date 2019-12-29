@@ -1,0 +1,20 @@
+entier int
+reel float
+caractere char
+chaine de caractere char[]
+ 
+printf affichage 
+
+programe =donnes +traitment + resultat 
+ 
+int %d
+float %F
+CHAR %C
+char[]%s
+
+printf("largeur=%d\n
+longeur=%d\n
+resultat=%d\n,
+l1,l2,res);
+ 
+

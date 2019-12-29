@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553946093 source:c:\users\pc\desktop\suppriesion\main.c
+	<stdio.h>
+	<stdlib.h>
+

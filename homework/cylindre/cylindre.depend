@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553183655 source:c:\users\pc\desktop\cylindre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

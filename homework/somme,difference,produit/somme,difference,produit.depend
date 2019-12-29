@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553171741 source:c:\users\pc\desktop\somme,difference,produit\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553171741 source:c:\users\pc\desktop\homework\somme,difference,produit\main.c
+	<stdio.h>
+	<stdlib.h>
+

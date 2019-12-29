@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553936147 source:c:\users\pc\desktop\tableau paire\main.c
+	<stdio.h>
+	<stdlib.h>
+
